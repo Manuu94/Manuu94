@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manuu94, currently studying Business Informatics.
 - 👀 I have a passion for computer science..
-- 🌱 I already have an advanced knowledge in C and Java, basics knowledge I have in Javascript and Python.
+- 🌱 I already have an advanced knowledge in C and Java, basic knowledge in Javascript and Python.
     Of course I can handle also HTML, CSS and Wordpress.
     Currently I'm also learning database systems and therefore I'm a motivated beginner in it.
     The wordpress thing was a joke of course :) that was just my hobby in school.
